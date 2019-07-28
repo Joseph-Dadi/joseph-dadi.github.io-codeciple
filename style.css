@@ -183,11 +183,15 @@ ABOUT SECTION STYLES
 
 .btn-primary{
   width:30%;
+  font-family: vijaya;
+  text-transform: lowercase;
 }
 
 .btn.btn-primary.repo{
   width:20%;
   background-color: #0f0f0f;
+  font-family: vijaya;
+  text-transform: uppercase;
 }
 
 
